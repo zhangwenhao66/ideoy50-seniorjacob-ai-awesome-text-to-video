@@ -3,6 +3,7 @@
 
 # Awesome-Text-To-Video [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 </div>
 
 
